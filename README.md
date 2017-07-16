@@ -1,2 +1,2 @@
 # dplearn
-This project is just learn ml and dp for me
+This project  just learn ml and dp for me

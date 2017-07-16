@@ -1,0 +1,6 @@
+（1）numpy和pandas是使用C语言写的，所以速度很快。
+（2）矩阵运算非常快
+
+pandas:
+更像是一个字典形式的numpy
+pandas可以读取csv，excel,hdf,sql,json,html,....
